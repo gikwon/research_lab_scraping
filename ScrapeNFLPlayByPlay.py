@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 '''
-Author: Tanner S Eastmond 
-
-Date: 4/26/2022
+Author: Gihyeon Kwon
 
 Purpose: This program scrapes the play-by-play data for every NFL gmae starting
            in 1994.
